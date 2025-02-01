@@ -7,7 +7,7 @@ The **Med-Vision** project is a deep learning-based computer vision model design
 A custom dataset of **4,208 images** was initially used, but after applying **data augmentation techniques**, the dataset expanded to **12,000+ images**, ensuring a more robust and generalizable model.
 The dataset is uploaded on the Google Drive here, [Med-Vision-Dataset](https://drive.google.com/drive/u/1/folders/17tyChnUsX3WztwtLIKStYSOR6t0lsLVT), it is because of its huge size, pushing it to Github was troublesome.
 
-The primary goal of this project was to build an efficient classification model leveraging **transfer learning** techniques with **CNN architectures**, ultimately achieving a high classification accuracy of **85%**.
+The primary goal of this project was to build an efficient classification model leveraging **transfer learning** techniques with **CNN architectures**, ultimately achieving a high classification accuracy of **~90%**.
 
 The workflow includes:
 - **Data collection and augmentation**
@@ -56,7 +56,7 @@ This project documents the challenges encountered, the methodologies adopted, an
 
 | **Model**            | **Test Accuracy** |
 |---------------------|-----------------|
-| EfficientNet_B0     | **0.85 (85%)**  |
+| EfficientNet_B0     | **0.90 (85%)**  |
 
 ---
 
@@ -65,7 +65,7 @@ The model's training process is illustrated with the following loss curves:
 
 **Loss Curve and Accuracy Curve for both train and test dataset**
 **EfficientNet_B0 Loss Curve**
-   ![EfficientNet Loss Curve](path_to_image_1.png)
+   ![EfficientNet Loss Curve](Loss and Accuracy Curves (Images)/For 7 Epochs.png)
 
 
 These loss curves provide insights into the training convergence, showing how the models improved over epochs.
