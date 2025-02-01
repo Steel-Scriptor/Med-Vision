@@ -65,7 +65,7 @@ The model's training process is illustrated with the following loss curves:
 
 **Loss Curve and Accuracy Curve for both train and test dataset**
 **EfficientNet_B0 Loss Curve**
-   ![EfficientNet Loss Curve](Loss_and_Accuracy_Curves_(Images)/For_7_Epochs.png)
+   ![EfficientNet Loss Curve](Loss_and_Accuracy_Curves_(Images)/For_10_Epochs.png)
 
 
 These loss curves provide insights into the training convergence, showing how the models improved over epochs.
