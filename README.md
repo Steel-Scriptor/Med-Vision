@@ -1,5 +1,5 @@
 # Med-Vision
-###A Deep Learning Approach to Multi-Class Disease Classification using Computer Vision
+### A Deep Learning Approach to Multi-Class Disease Classification using Computer Vision
 
 ## **Overview**
 The **Med-Vision** project is a deep learning-based computer vision model designed for **multi-class disease classification**. The model is capable of identifying and categorizing diseases such as **Acne, Conjunctivitis, Folliculitis, Hives Urticaria, Nail Fungus and Cracked Nails, Ringworms (Skin Fungal Infection), Stye (Inflammation around eyes), and Warts** 
